@@ -1,0 +1,17 @@
+.nav-bar {
+    display: flex;
+    /* border: 1px solid orange; */
+    gap: 90%;
+    font-size: 22px;
+    background: rgb(67, 182, 67);
+}
+.nav-bar h1{
+    margin-left: 10px;
+    padding: 10px 0px 30px 10px;
+}
+.nav-bar ul li {
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: -60px;
+    font-size: 20px;
+}

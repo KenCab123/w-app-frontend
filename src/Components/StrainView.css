@@ -1,0 +1,14 @@
+.strain-view-wrapper, .rating , .strain-view-wrapper ul{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+.strain-view-wrapper span{
+    background-size: contain;
+    margin-left: 5px;
+}
+.strain-view-wrapper ul {
+    list-style-type: none;
+}
